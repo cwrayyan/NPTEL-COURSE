@@ -1,3 +1,4 @@
+//CHECK IF A NUMBER IS OF POWER 2
 #include <stdio.h>
 
 int main() {

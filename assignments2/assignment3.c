@@ -1,4 +1,4 @@
-//sum of numbers from 1 to N
+//sum of even numbers from 1 to N
 #include <stdio.h>
 
 int main(){

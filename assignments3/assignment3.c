@@ -1,3 +1,4 @@
+//FIND THE SUM OF THE SERIES
 #include <stdio.h>
 int main(){
     int N;
